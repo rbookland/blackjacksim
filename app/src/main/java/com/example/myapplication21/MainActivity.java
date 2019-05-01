@@ -12,7 +12,7 @@ import android.widget.Toast;
 import java.util.LinkedList;
 
 public class MainActivity extends AppCompatActivity {
-
+//
     //Hand player = new Hand(0, true);
 
     private LinkedList<Integer> playerCount = new LinkedList<>();
